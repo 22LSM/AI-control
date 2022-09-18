@@ -9,5 +9,5 @@
 
 
 
-<img src="https://media.istockphoto.com/photos/plate-of-fried-chicken-on-blue-plaid-towel-picture-id452813985" width="100px" height="50px" title="Github_Logo"></img>
+              <img src="https://media.istockphoto.com/photos/plate-of-fried-chicken-on-blue-plaid-towel-picture-id452813985" width="100px" height="100px" title="Github_Logo"></img>
 
