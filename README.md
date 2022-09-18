@@ -10,6 +10,6 @@
 
 
 
- ![치킨]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0Z94iqO01RBz7uaesVFC5hG-J4y-ldNCHg&usqp=CAU](https://www.istockphoto.com/kr/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%9D%BC%ED%85%8C-%EC%9D%98-%ED%8A%80%EA%B8%B4-%EB%8B%AD-%ED%8C%8C%EB%9E%80%EC%83%89-%EC%B2%B4%ED%81%AC-%ED%83%80%EC%9B%94-gm452813985-25658357?phrase=%EC%B9%98%ED%82%A8))
+ ![치킨](https://www.istockphoto.com/kr/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%9D%BC%ED%85%8C-%EC%9D%98-%ED%8A%80%EA%B8%B4-%EB%8B%AD-%ED%8C%8C%EB%9E%80%EC%83%89-%EC%B2%B4%ED%81%AC-%ED%83%80%EC%9B%94-gm452813985-25658357?phrase=%EC%B9%98%ED%82%A8))
 
 
