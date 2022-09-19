@@ -1,4 +1,4 @@
-# AI-control
+AI-control
 #간단한 자기소개
 (:smile:)
 >이름: _'이상민'_
