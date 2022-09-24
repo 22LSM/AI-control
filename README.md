@@ -17,8 +17,8 @@
 <img src="https://media.istockphoto.com/photos/plate-of-fried-chicken-on-blue-plaid-towel-picture-id452813985" width="100px" height="100px" title="Github_Logo"></img>
 
 
-|제목|내용|
-|------|---|
+|sr.no|                                Function & description                                 |
+|       ------      |                                 ---                                     |
 |테스트1|테스트2|
 |테스트1|테스트2|
 |테스트1|테스트2|
