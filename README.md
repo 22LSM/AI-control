@@ -24,9 +24,7 @@
 |3|complex(real [,imag]) Creates a complex number.|
 |4|str(x) Converts object x to a string representation.|
 |5|repr(x)Converts object x to an expression string.|
-|6|eval(str)
-
-Evaluates a string and returns an object.|
+|6|eval(str): Evaluates a string and returns an object.|
 |7|	tuple(s): Converts s to a tuple|
 |8|	list(s): Converts s to a list.|
 |9|	list(s): Converts s to a list.|
