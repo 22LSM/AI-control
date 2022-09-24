@@ -19,8 +19,9 @@
 
 |sr.no|                                Function & description                                 |
 |       ------      |                                 ---                                     |
-|테스트1|테스트2|
-|테스트1|테스트2|
+|1|테스트2|
+|테스트1|int(x [,base])
+Converts x to an integer. The base specifies the base if x is a string.|
 |테스트1|테스트2|
 |테스트1|테스트2|
 |테스트1|테스트2|
